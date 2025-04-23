@@ -1,11 +1,11 @@
 
-# 📁 Sistema de Upload de Documentos
+#  Sistema de Upload de Documentos
 
 Este é um projeto simples para upload de arquivos `.doc` e `.docx` com armazenamento local e registro no banco de dados via MySQL (HeidiSQL). Ele utiliza Node.js, Express, Multer, Bootstrap e EJS para o frontend.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Node.js
 - Express
@@ -16,20 +16,20 @@ Este é um projeto simples para upload de arquivos `.doc` e `.docx` com armazena
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
-✅ Upload de arquivos `.doc` e `.docx`  
-✅ Interface moderna com Bootstrap  
-✅ Armazenamento local dos arquivos  
-✅ Registro no banco de dados (nome + caminho + data)  
-✅ Código simples e direto
+ Upload de arquivos `.doc` e `.docx`  
+ Interface moderna com Bootstrap  
+ Armazenamento local dos arquivos  
+ Registro no banco de dados (nome + caminho + data)  
+ Código simples e direto
 
 ---
 
-## 💾 Estrutura de Pastas
+## Estrutura de Pastas
 
 ```
-📁 seu-projeto/
+ seu-projeto/
 ├── app.js
 ├── uploads/             # Onde os arquivos são salvos
 ├── mvc/
@@ -44,7 +44,7 @@ Este é um projeto simples para upload de arquivos `.doc` e `.docx` com armazena
 
 ---
 
-## ⚙️ Como Rodar
+## Como Rodar
 
 ### 1. Instale as dependências:
 
@@ -103,7 +103,7 @@ npx nodemon app.js
 
 ---
 
-## 📷 Exemplo de Card com Imagem (Bootstrap)
+## Exemplo de Card com Imagem (Bootstrap)
 
 ```html
 <div class="card" style="width: 18rem;">
@@ -118,13 +118,4 @@ npx nodemon app.js
 
 ---
 
-## 💡 Sugestões Futuras
 
-- ✔️ Listar arquivos enviados na página
-- ⬇️ Baixar arquivos pelo navegador
-- 🗑️ Excluir arquivos
-- 🔐 Autenticação de usuários
-
----
-
-Feito com 💙 por [Seu Nome]
